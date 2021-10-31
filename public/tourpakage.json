@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "617b974d92f85569e0221405",
+        "picture": "https://i.ibb.co/HGM0mNg/cox-bazar.jpg",
+        "title": "Cox's Bazar",
+        "price": 120,
+        "description": "Cox's Bazar is located 150 km (93 mi) south of the divisional headquarter city of Chittagong. Cox's Bazar town has an area of 6.85 km2 (2.64 sq mi), and is bounded by Bakkhali River on the north and East, Bay of Bengal in the West, and Jhilwanj Union in the south.The beach in Cox's Bazar has a gentle slope and with an unbroken length of 155 km (96 mi) it is often termed the in the world.Cox's Bazar lies on a coastal plain in the southeastern corner of Bangladesh. From above, the plain appears to bulge out into the Bay of Bengal. Along the shore is an extensive area of beach and dunes. Most of the city is built on a floodplain that is lower in elevation than the dunes, making it more susceptible to flooding due to cyclones and storm surges. The Cox's Bazar coastal plain was formed after the sea reached its present level around 6,500 years ago, with the area of the current floodplain originally forming a sediment sink that has since been gradually filled in by the Bakkhali river as well as smaller streams coming down from the hills..\r\n"
+    },
+    {
+        "_id": "617b974d91114a3539045139",
+        "picture": "https://i.ibb.co/YkqtGry/sondrban.jpg",
+        "title": "Sundarbans",
+        "price": 50,
+        "description": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh's division of Khulna. It comprises closed and open mangrove forests, land used for agricultural purpose, mudflats and barren land, and is intersected by multiple tidal streams and channels.\r\n"
+    },
+    {
+        "_id": "617b974d06b98c7505dd90f6",
+        "picture": "https://i.ibb.co/HBGxJ8Y/kuakata.jpg",
+        "title": "Kuakata",
+        "price": 100,
+        "description": "Kuakata (Bengali: কুয়াকাটা) is a town in southern Bangladesh known for its panoramic sea beach.[1][2] Kuakata beach is a sandy expanse 18 kilometres (11 mi) long and 3 kilometres (1.9 mi) wide.[3] From the beach one can have an unobstructed view of both sunrise and sunset over the Bay of Bengal.The name Kuakata originated from the word 'kua' — the Bengali word for which was dug on the seashore by the early Rakhine settlers(Burmese tribes) in quest of collecting drinking water.[4] They landed on the Kuakata coast in the 18th century after being expelled from Arakan (Myanmar) by the Burmese extremists .[5] Afterwards, it has become a tradition of digging wells in the neighbourhoods of Rakhaine tribes for water.\r\n"
+    },
+    {
+        "_id": "617b974d7962cacec0a27853",
+        "picture": "https://i.ibb.co/yQ6B2yS/bandarban.jpg",
+        "title": "Bandarban",
+        "price": 250,
+        "description": "Bandarban (Bengali: বান্দরবান), is a district in South-Eastern Bangladesh, and a part of the Chittagong Division.[4] It is one of the three hill districts of Bangladesh and a part of the Chittagong Hill Tracts, the others being Rangamati District and Khagrachhari District. Bandarban city is the headquarters of the Bandarban district. Bandarban district (4,479 km2) is not only the most remote district of the country, but also the least populous (population 292,900).\r\n"
+    },
+    {
+        "_id": "617b974d93a87b129ceb09ef",
+        "picture": "https://i.ibb.co/vJSxXxG/sreemongol.jpg",
+        "title": "Sreemangal",
+        "price": 200,
+        "description": "It is said the name Sreemangal (or Srimangal) is named after Sri Das and Mangal Das; two brothers who settled on the banks of the Hail Haor.[2] A copper plate of Raja Marundanath from the 11th century was found in Kalapur. During an excavation at Lamua, an ancient statue of Ananta Narayan was dug out. In 1454, the Nirmai Shiva Bari was built and still stands today. Srimangal thana was established in 1912. The central town later became a pourashava in 1935. In 1963, two peasants were killed by police officers which kicked off the Balishira peasant riots. During the Bangladesh Liberation War of 1971, the Pakistani army reached Srimangal on 30 April setting houses on fire and committing atrocities against women.\r\n"
+    },
+    {
+        "_id": "617b974dff2dd479a278be26",
+        "picture": "https://i.ibb.co/P6dJJyZ/jaflong.jpg",
+        "title": "Jaflong",
+        "price": 80,
+        "description": "Jaflong (Bengali: জাফলং) is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh and the Indian state of Meghalaya, overshadowed by subtropical mountains and rainforests. It is known for its stone collections and is home of the Khasi tribe.Jaflong is a tourist spot in Sylhet division. It is about 60 km from Sylhet town and takes two hours drive to reach there. Jaflong located amidst tea gardens and hills. It is situated beside the river Sari in the lap of Hill Khashia.\r\n"
+    }
+]
