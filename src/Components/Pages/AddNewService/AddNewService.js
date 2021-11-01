@@ -7,7 +7,7 @@ const AddNewService = () => {
     const { register, handleSubmit, reset } = useForm();
     const onSubmit = data => {
         console.log(data);
-        axios.post('http://localhost:5000/packages', data)
+        axios.post('https://aqueous-tundra-41879.herokuapp.com/packages', data)
             .then(res => {
                 if (res.data.insertedId) {
                     // console.log(res);

@@ -9,7 +9,7 @@ const PlaceOrder = () => {
     const [packag, setPackage] = useState({})
 
     useEffect(() => {
-        fetch(`http://localhost:5000/packages/${packageId}`)
+        fetch(`https://aqueous-tundra-41879.herokuapp.com/packages/${packageId}`)
             .then(res => res.json())
             .then(data => setPackage(data))
     }, [])
