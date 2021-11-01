@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+website name : Travel-world.
+website link:
+Bullet points:
+
+Home page:Home page contain a header, 
+banner,travelling packages,gallery,customer review and footer.
+
+Header section:visitor can see the home,shop,about,contact & login button in 
+header section.when a visitor login then he/she can see My Orders, Manage All Orders, 
+Add A New Service, Logout button & user name.
+
+Packages:Clicking on the (book now) button will take the user to the place order page. 
+Customer can see the travelling package details(image,package title,description &
+package price)& purchase travelling package.
+
+if admin logged in he can add a packages.
+
