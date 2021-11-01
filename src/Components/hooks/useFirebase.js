@@ -6,6 +6,7 @@ initializeAuthentication();
 
 const useFirebase = () => {
     const [user, setUser] = useState({});
+    const [isLoading, setIsLoading] = useState(true);
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
 
@@ -22,6 +23,7 @@ const useFirebase = () => {
                 setUser({})
                 // Sign-out successful.
             })
+            .finally(() => setIsLoading(false));
     }
 
     useEffect(() => {

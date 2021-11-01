@@ -1,15 +1,16 @@
 import React from 'react';
 import { Card, Col, Button } from 'react-bootstrap';
-import { useHistory } from 'react-router';
+import { Link } from 'react-router-dom';
+// import { useHistory } from 'react-router';
 
 const TourPackage = ({ tourpackage }) => {
-    const { picture, title, price, description } = tourpackage;
+    const { _id, picture, title, price, description } = tourpackage;
 
-    const history = useHistory();
-    const handleBookPackage = () => {
-        history.push('/placeorder');
+    /*   const history = useHistory();
+      const handleBookPackage = () => {
+          history.push('/placeorder');
+      } */
 
-    }
     return (
         <div>
             <Col>
@@ -21,7 +22,10 @@ const TourPackage = ({ tourpackage }) => {
                             {description.slice(0, 30)}
                         </Card.Text>
                         <Card.Title>Price : ${price}</Card.Title>
-                        <Button onClick={handleBookPackage} variant="primary">book now</Button>
+                        <Link to={`/placeorder/${_id}`}>
+                            <Button variant="primary">book now</Button>
+                        </Link>
+                        {/* <Button onClick={handleBookPackage} variant="primary">book now</Button> */}
                     </Card.Body>
                 </Card>
             </Col>
